@@ -7,5 +7,6 @@
         <page name='Swift04 - Coleções'/>
         <page name='Swift05 - Operadores'/>
         <page name='Swift06 - Condicionais'/>
+        <page name='Swift07 - Enum'/>
     </pages>
 </playground>
