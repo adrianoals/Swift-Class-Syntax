@@ -50,3 +50,5 @@ let earthGravity = 9.81
 //Note que não é possível alterar o valor de uma constante
 //earthGravity = 10.01  //ERRO
 
+
+

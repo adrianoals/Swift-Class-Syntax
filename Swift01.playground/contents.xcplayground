@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='Swift01 - Comentários e Variáveis'/>
         <page name='Swift02 - Tipos De Dados'/>
@@ -8,5 +8,8 @@
         <page name='Swift05 - Operadores'/>
         <page name='Swift06 - Condicionais'/>
         <page name='Swift07 - Enum'/>
+        <page name='Swift08 - Functions'/>
+        <page name='Swift09 - Closures'/>
+        <page name='Swift10 - Classes x Structs'/>
     </pages>
 </playground>

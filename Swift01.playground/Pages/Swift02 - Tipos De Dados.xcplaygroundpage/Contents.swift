@@ -11,7 +11,10 @@
  
  */
 
-var value1 = 500          //Aqui, a inferência é para Int
+var value1 = 500 //Aqui, a inferência é para Int
+//Analisando o tipo da variável
+print(type(of: value1)) // Outra forma de ver o tipo é clicando com o opntion pressionado em cima da variável
+
 var value2: Int = 500     //Idêntico à linha acima
 var myAge: UInt8 = 39   //Somente valores positivos
 
@@ -137,3 +140,20 @@ let address3: (street: String, number: Int, zipCode: String) = ("Av. Paulista", 
 
 let (streetName3, _, zipCode3) = address3
 print("O CEP é \(zipCode3)")
+
+
+
+//Typealias
+//Se tivermos diversas variáveis que representam um elemento só, podemos criar um Type alias.
+// código anterior omitido
+
+typealias Estudante = String
+
+var aluno1: Estudante = "João"
+var aluno2: Estudante = "Ana"
+
+//Ao executar o código, notaremos que não ocorre nenhum erro. Pressionando a tecla "Option" e clicando sobre a variável aluno1, verificamos que ela é do tipo Estudante:
+
+
+
+
