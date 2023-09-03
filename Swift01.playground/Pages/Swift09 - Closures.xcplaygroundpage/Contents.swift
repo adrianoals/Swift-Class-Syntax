@@ -79,7 +79,7 @@ print("Seu saldo é R$ \(balance)")
 
 
 
-GENERICS
+//GENERICS
 func swapInts(_ a: inout Int, _ b: inout Int) {
   let tempA = a
   a = b
