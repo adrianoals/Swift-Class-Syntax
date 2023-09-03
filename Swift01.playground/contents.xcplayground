@@ -10,6 +10,9 @@
         <page name='Swift07 - Enum'/>
         <page name='Swift08 - Functions'/>
         <page name='Swift09 - Closures'/>
-        <page name='Swift10 - Classes x Structs'/>
+        <page name='Swift10 - Structs'/>
+        <page name='Swift11 - Class'/>
+        <page name='Swift12 - Extension'/>
+        <page name='Swift13 - Protocol'/>
     </pages>
 </playground>
